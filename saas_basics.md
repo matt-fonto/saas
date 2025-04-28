@@ -111,3 +111,25 @@
 
 - Smallest thing possible to provide value
 - You have certainty only when you're in the market
+
+9. Phased launch
+
+- Start with a subset of your customer-based
+- Roll out at a few hundreds at a time
+- Not beta, but **early access**
+- Charge as soon as possible
+
+## 3. How to launch a SaaS
+
+1. Find the ideal problem to solve
+
+- There must be a demand
+- Problem-Founder-Fit
+  - Can you "dogfood" your product? | Are you the ICP? (Ideal Customer Profile)
+  - You should be familiar with the problem
+
+2. Are you passionate about the problem?
+   - I'm here to make it easier for people to [x]
+   - I'm here to put an end to [x]
+
+## 4. Product-Market fit
