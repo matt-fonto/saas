@@ -158,4 +158,26 @@
 
 6. Build as much reusable building blocks as possible
 
-## 4. Product-Market fit
+   - Create system and reusable templates
+   - When creating a SaaS, create a SaaS factory
+
+## 4. Build a SaaS factory
+
+- Find a way to take products to market faster
+- Store code
+- Create the habit of separating building blocks of your code
+- By having the building blocks, you save incredible amount of hours on engineering
+- Use no-code automation for several tasks
+- Create automations and save them. Hook them up and reuse them on your projects
+- Build your factory from scratch, so you know it from inside out
+- What it should have
+  - Payment system
+  - Auth
+  - Email
+  - Privacy policy
+  - Terms and conditions
+    - Save docs on notion
+- Play the same game, again and again: Create your playbook - how do you do stuff?
+- It's the process of building the factory that gives you superpowers
+
+## 5. Product-Market fit

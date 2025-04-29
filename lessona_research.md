@@ -1,0 +1,19 @@
+# Top Lesson Planning Challenges for Language Teachers (English & Spanish)
+
+Over the past year, language teachers (especially ESL/EFL and Spanish instructors) have voiced common struggles in lesson planning on forums like Reddit and Quora. These high-engagement discussions reveal recurring pain points and opportunities for new tools.
+
+| Theme                       | Problem Summary                                                                                | Teacher Quote (source)                                                                                                                   | Tool/Feature Opportunity                                                         |
+| --------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Lesson Planning Overload    | Teachers spend excessive time crafting lessons, leading to exhaustion and burnout.             | “I'm 7 months into my contract…working 14 hours a week and I can barely keep up with lesson planning.”                                   | AI-driven lesson planner to reduce prep time and prevent burnout.                |
+| No Ready-Made Curriculum    | New teachers without a set curriculum or materials struggle to build lessons from scratch.     | “Newbie Spanish teacher with zero Spanish experience and no curriculum looking for lesson planning advice and resources.”                | Shared lesson library for curricula and resources geared toward novice teachers. |
+| Engaging Speaking Practice  | Hard to find fresh, engaging speaking activities that get students talking actively.           | “90% of my students are Brazilian… They generally love talking but don't enjoy grammar work so much. They're at the Intermediate level.” | Conversation-prompt library or game-based speaking-activity generator.           |
+| Grammar Instruction         | Making grammar lessons interesting and clear without boring lectures is difficult.             | “How do you teach grammar without it being boring? … best tips for teaching grammar?”                                                    | Interactive grammar tool with gamified, real-life examples.                      |
+| Mixed-Level Differentiation | Classes often have widely varying proficiency levels, making single-level lessons ineffective. | “I'm struggling with one issue: mixed-level classes… one student is near fluent while others are far lower.”                             | Adaptive multi-level platform that auto-differentiates tasks.                    |
+| Assessment & Feedback       | Few easy tools exist to assess language skills or place students accurately.                   | “I am looking for an online assessment test to give students that can test learners at different levels…”                                | Customizable assessment generator with instant feedback.                         |
+| AI-Powered Planning Help    | Teachers are curious about AI for lesson planning but unsure how to use it effectively.        | “I've started turning to ChatGPT and I feel like it’s helped me with lesson planning and the research behind my lesson plans…”           | AI lesson-planning assistant aligned with standards and student needs.           |
+
+## Top 3 Tool Ideas
+
+1. **AI-Driven Lesson Planner** – Generates and customizes lesson plans, saving time and preventing burnout.
+2. **Shared Curriculum/Resource Library** – Ready-made, adaptable lesson plans and materials for language teachers.
+3. **Adaptive Multi-Level Teaching Platform** – Differentiates activities to various proficiency levels, helping teachers manage mixed-ability classrooms.
