@@ -127,9 +127,35 @@
 - Problem-Founder-Fit
   - Can you "dogfood" your product? | Are you the ICP? (Ideal Customer Profile)
   - You should be familiar with the problem
+- Create a list of tasks that you'd like to have solved
 
 2. Are you passionate about the problem?
+
    - I'm here to make it easier for people to [x]
    - I'm here to put an end to [x]
+
+- Create a list of topics you're genuinely interested about
+
+3. What are my unfair advantages?
+
+   - What gives you an extra edge?
+
+- Create a list of unfair advantages you have
+
+4. Create one organic distribution channel
+
+   - Blogging & SEO
+   - Content on social media
+   - YT channel
+   - Email newsletter
+   - Community
+   - Word-of-mouth
+
+5. Start building the product
+
+   - Build it in public
+   - Build a community and share with this community your current progress
+
+6. Build as much reusable building blocks as possible
 
 ## 4. Product-Market fit
